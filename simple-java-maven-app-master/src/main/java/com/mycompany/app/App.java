@@ -17,6 +17,13 @@ public class App
         System.out.println(new App().getMessage());
         System.out.println(new App().getMessage());
         System.out.println(new App().getMessage());
+        System.out.println(new App().getMessage());
+        System.out.println(new App().getMessage());
+        System.out.println(new App().getMessage());
+        System.out.println(new App().getMessage());
+        System.out.println(new App().getMessage());
+        System.out.println(new App().getMessage());
+        System.out.println(new App().getMessage());
        
     }
 
